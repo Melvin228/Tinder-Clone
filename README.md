@@ -2,7 +2,7 @@
 
 
 ## Tinder Clone
-- An app made mern stack (Mongodb, ExpressJs, React, Nodejs)
+- An app made from mern stack (Mongodb, ExpressJs, React, Nodejs)
 
 
 
